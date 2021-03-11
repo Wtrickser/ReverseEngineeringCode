@@ -38,6 +38,7 @@ You are required to submit the following:
 _Note: Don't forget to change the sharing settings on your Google Doc._
 
 Google Doc: https://docs.google.com/document/d/1wxbvnl2rmqrfCpAs44LxtmKJt9ZqVpXYBQphHy_RDyo/edit
+
 Github: https://github.com/Wtrickser/ReverseEngineeringCode
 - - -
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
