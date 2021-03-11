@@ -37,7 +37,7 @@ You are required to submit the following:
 
 _Note: Don't forget to change the sharing settings on your Google Doc._
 
-Google Doc: https://docs.google.com/document/d/1wxbvnl2rmqrfCpAs44LxtmKJt9ZqVpXYBQphHy_RDyo/edit
+Google Doc: https://docs.google.com/document/d/1wxbvnl2rmqrfCpAs44LxtmKJt9ZqVpXYBQphHy_RDyo/edit?usp=sharing
 
 Github: https://github.com/Wtrickser/ReverseEngineeringCode
 - - -
